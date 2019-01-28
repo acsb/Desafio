@@ -2,7 +2,8 @@
 #include <stdlib.h>
 
 /*
-Complexidade: O(m*n)
+Complexidade
+Tempo: O(m*n)
 Espaço: O(m*n)
 */
 
